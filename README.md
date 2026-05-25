@@ -1,6 +1,6 @@
 # RefactorizacionLegacy
 
-Nuestra misión en esta sesión es enfrentarnos a un miedo habitual en la industria. Donde tendremos que aplicar cosas como la Regla del Boy Scout ("deja el código siempre más limpio de como lo encontraste") y exprimiremos las herramientas de nuestro Entorno Integrado de Desarrollo (IDE) para refactorizar este módulo, eliminando por completo su deuda técnica. Por lo que nois va a tocar actuar como cirujanos del código, viendo primero cuales son los problemas que tiene el código que nos dan.
+Nuestra misión en esta sesión es enfrentarnos a un miedo habitual en la industria. Donde tendremos que aplicar cosas como la Regla del Boy Scout ("deja el código siempre más limpio de como lo encontraste") y exprimiremos las herramientas de nuestro Entorno Integrado de Desarrollo (IDE) para refactorizar este módulo, eliminando por completo su deuda técnica. Por lo que nos va a tocar actuar como cirujanos del código, viendo primero cuales son los problemas que tiene el código que nos dan.
 
 ## Los tres grandes problemas de este código antes de la refactorización:
 
